@@ -1,7 +1,7 @@
 # aircraft-in-C
 Read me!
 
-# VR-Flight-physics-Unity
+# VR__physics_Unity
 Incorporating realistic XPlane flight physics into unity for VR applications and training of landing planes on carrier decks. This application was controlled with an xbox controller.  
 Author: Andrew Kubal
  © 2018
