@@ -5,6 +5,7 @@ Read me!
 Incorporating realistic XPlane flight physics into unity for VR applications and training of landing planes on carrier decks. This application was controlled with an xbox controller.  
 Author: Andrew Kubal
  © 2018
+![image](https://github.com/popCoffee/aircraft-in-C/blob/master/pic_planeUnity.PNG)
 
 ### Notes
 This is a VR application for unity. No meta files were included. Copy and paste the code into unity to get it to work. 
